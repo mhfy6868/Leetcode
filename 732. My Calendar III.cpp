@@ -36,13 +36,7 @@ private:
 };
 
 int main(){
-    //string m = "ABABBBBB";
-    //string m = "5/3+1/3";
-    //int k  = 1;
-    //vector<vector<int>> m= {{1,3},{2,6},{8,10},{13,15}};
-    //vector<vector<int>> m= {{1,3},{0,3},{8,10},{13,15}};
-    //["MyCalendarThree","book","book","book","book","book","book"]
-    //[[],[10,20],[50,60],[10,40],[5,15],[5,10],[25,55]]
+  
     vector<vector<int>> m = {{10,20},{50,60},{10,40},{5,15},{5,10},{25,55}};
     vector<int> param_1;
     //vector<int> k= {4,4,1,5,1};
